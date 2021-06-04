@@ -1,1 +1,1 @@
-# Check date with c#
+# Date time checker with c#
